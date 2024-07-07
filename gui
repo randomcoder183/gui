@@ -35,7 +35,7 @@ library.theme = {
 	buttoncolor = Color3.fromRGB(49, 49, 49), 
 	buttoncolor2 = Color3.fromRGB(29, 29, 29), 
 	itemscolor = Color3.fromRGB(170, 170, 170), 
-	itemscolor2 = Color3.fromRGB(39, 99, 15)
+	itemscolor2 = Color3.fromRGB(170, 170, 170)
 }
 
 if library.theme.cursor then
